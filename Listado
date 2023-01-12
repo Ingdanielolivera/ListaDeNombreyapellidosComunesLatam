@@ -1,0 +1,18 @@
+# lista de nombres comunes en Latinoamérica con 100 variables
+nombres = ["Juan", "Carlos", "Miguel", "Maria", "Ana", "Sofia", "Isabella", "Lucia", "Valentina", "Camila",
+           "Diego", "Luis", "Ricardo", "Jorge", "Alberto", "Eduardo", "David", "Francisco", "Javier", "Joaquin",
+           "Paula", "Andrea", "Daniela", "Juliana", "Karen", "Brenda", "Gabriela", "Cristina", "Natalia", "Karina",
+           "Hector", "Alex", "Diego", "Santiago", "Jose", "Fernando", "Martin", "Adrian", "Oscar", "Rafael",
+           "Liliana", "Paola", "Rosa", "Esther", "Guadalupe", "Carmen", "Alicia", "Rocio", "Teresa", "Marcela",
+           "Mario", "Erick", "Sergio", "Julio", "Ruben", "Esteban", "Marco", "Felipe", "Emilio", "Juan Carlos",
+           "Maria del Carmen", "Maria Teresa", "Maria Jose", "Maria Isabel", "Maria Luisa", "Maria Esther", "Maria Rosa", "Maria Elena", "Maria Cristina", "Maria Pilar",
+           "Jose Luis", "Jose Francisco", "Jose Manuel", "Jose Antonio", "Jose Miguel", "Jose Gabriel", "Jose Eduardo", "Jose Raul", "Jose David", "Jose Carlos"]
+
+# lista de apellidos comunes en Latinoamérica con 100 variables
+apellidos = ["Garcia", "Lopez", "Martinez", "Perez", "Rodriguez", "Gonzalez", "Sanchez", "Torres", "Gomez", "Diaz",
+             "Fernandez", "Moreno", "Jimenez", "Ruiz", "Alvarez", "Muñoz", "Romero", "Alonso", "Gutierrez", "Navarro",
+             "Castro", "Ortiz", "Rubio", "Molina", "Suarez", "Herrera", "Aguilar", "Pena", "Sosa", "Velazquez",
+             "Flores", "Cortes", "Acosta", "Castillo", "Rios", "Guerrero", "Cano", "Prieto", "Rojas", "Vasquez",
+             "Carrasco", "Cabrera", "Caballero", "Calderon", "Chavez", "Carrillo", "Carrasquel", "Cordero", "Chacon", "Chinea",
+             "Carrion", "Cedeno", "Cepeda", "Conde", "Cabral", "Cardona", "Carvajal", "Caro", "Carmona", "Carrasco",
+             "Carmona", "Carrasco", "Carmona", "Carrasco", "Carmona", "Carrasco", "Carmona", "Carrasco", "Carmona", "Carrasco"]
